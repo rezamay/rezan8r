@@ -1,1 +1,1 @@
-My Software Development Portfolio website:  http://www.rezan8r.com
+Software Development Portfolio website:  http://www.rezan8r.com
