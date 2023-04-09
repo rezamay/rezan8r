@@ -1,1 +1,1 @@
-Software Development Portfolio website:  http://www.rezan8r.com (c) 2023
+Software Development Portfolio:  http://www.rezan8r.com (c) 2023
